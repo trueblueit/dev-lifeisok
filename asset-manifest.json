@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dev-lifeisok/static/css/main.dc4d6ff2.css",
+    "main.js": "/dev-lifeisok/static/js/main.41f63aae.js",
+    "index.html": "/dev-lifeisok/index.html",
+    "main.dc4d6ff2.css.map": "/dev-lifeisok/static/css/main.dc4d6ff2.css.map",
+    "main.41f63aae.js.map": "/dev-lifeisok/static/js/main.41f63aae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.41f63aae.js"
+  ]
+}
